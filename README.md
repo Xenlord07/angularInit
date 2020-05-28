@@ -1,0 +1,2 @@
+# angularInit
+Angular Base proyect
